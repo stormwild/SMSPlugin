@@ -9,7 +9,9 @@ https://github.com/stormwild/phonegap-plugins/tree/master/Android/SMSPlugin
 1. To install the plugin, move smsplugin.js to your project's www folder and include a reference to it in your html files. 
 2. Add the java files from src to your project's src hierarchy
 3. Reference the plugin in your res/xml/config.xml file
-<plugin name="SmsPlugin" value="net.practicaldeveloper.phonegap.plugins.SmsPlugin"/>
+<code>
+    &lt;plugin name="SmsPlugin" value="net.practicaldeveloper.phonegap.plugins.SmsPlugin"/&gt;
+</code>
 4. Ensure that your manifest contains the necessary permissions to send SMS messages:
 
 <uses-permission android:name="android.permission.SEND_SMS"/>
