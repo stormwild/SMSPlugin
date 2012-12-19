@@ -18,3 +18,16 @@ local.properties
 # Eclipse project files
 .classpath
 .project
+.settings/
+
+# Android project files
+AndroidManifest.xml
+ic_launcher-web.png
+libs/
+proguard-project.txt
+project.properties
+res/
+
+# Project specific excludes
+
+src/com/
