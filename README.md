@@ -2,6 +2,7 @@
 By Daniel Shookowsky
 
 This is a fork of Daniel Shookowsky's SMS Plugin for Phonegap updated for Cordova 2.2.0
+
 https://github.com/stormwild/phonegap-plugins/tree/master/Android/SMSPlugin
 
 ## Adding the Plugin to your project ##
