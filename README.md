@@ -1,7 +1,8 @@
 # SMS plugin for Phonegap #
 By Daniel Shookowsky
 
-## This is a fork of Daniel Shookowsky's SMS Plugin for Phonegap updated for Cordova 2.2.0 ##
+This is a fork of Daniel Shookowsky's SMS Plugin for Phonegap updated for Cordova 2.2.0
+https://github.com/stormwild/phonegap-plugins/tree/master/Android/SMSPlugin
 
 ## Adding the Plugin to your project ##
 1. To install the plugin, move smsplugin.js to your project's www folder and include a reference to it in your html files. 
